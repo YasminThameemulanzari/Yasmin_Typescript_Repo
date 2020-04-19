@@ -1,5 +1,5 @@
 // Data Types
-
+//
 
 console.log("------ Basic Data types------");
 
